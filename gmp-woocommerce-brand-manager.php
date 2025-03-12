@@ -3,7 +3,7 @@
 Plugin Name: GMP WooCommerce Brand Manager
 Description: A plugin to copy or move products between brands.
 Version: 1.0.0
-Author: GMP (ShalomT)
+Author: GMP
 */
 
 if (!defined('ABSPATH')) {
