@@ -40,7 +40,7 @@ The **WooCommerce Brand Manager** plugin enables WooCommerce store admins to man
 
 ## Author
 
-Developed by **(GMP)**.
+Developed by **(detoxpeople)**.
 
 ## License
 
